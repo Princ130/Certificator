@@ -14,6 +14,7 @@ A custom certificate automation tool.
 
 ```bash
 pip install -r requirements.txt
+pip install streamlit-drawable-canvas
 # streamlit run app.py
 python -m streamlit run app.py
 
